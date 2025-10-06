@@ -7,13 +7,13 @@
 -🔧 I enjoy solving real-world problems and turning ideas into working code.  
 -📚 Always curious, always learning – tech is my playground.  
 -🌐 Check out my portfolio and projects to see what I'm building!
-  -🌐**Connect with Me**
+🌐**Connect with Me**
  [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Nalini_progr)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nalini-saravanan)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Nalini123955)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />](https://nalini.web.app)
       
-###💻 Languages and Technologies
+##**💻 Languages and Technologies**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
