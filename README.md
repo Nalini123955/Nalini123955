@@ -6,13 +6,11 @@ Fresher Full Stack Developer
 -🚀 Currently exploring Data Structures, Algorithms, and AI/ML to level up my skills.  
 -🔧 I enjoy solving real-world problems and turning ideas into working code.  
 -📚 Always curious, always learning – tech is my playground.  
--🌐 Check out my portfolio and projects to see what I'm building!               
-<br /> <br />
+-🌐 Check out my portfolio and projects to see what I'm building!
+-Social Presence🎞🎞            
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Nalini_progr)
 <br />
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nalini-saravanan)
-
-
 ### I code in
 💻 I Code In
 <p align="left">
