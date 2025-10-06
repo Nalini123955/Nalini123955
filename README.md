@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Nalini
 
 Fresher Full Stack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://th.bing.com/th/id/OIP.ihyTpqlzFuz4idN_FLzqhwHaHa?w=186&h=185&c=7&r=0&o=7&cb=12&pid=1.7&rm=3">
 - 🔭 Here's my [portfolio](https://nalinii.web.app/)                                                 
 - 🌱👩‍💻I’m currently learning  Data Structures and algorithms and AI&ML
 - Social Presence
