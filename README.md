@@ -2,7 +2,7 @@
 **🙋‍♀️🌱About Me**
 **👩‍💻Fresher Full Stack Developer**
 <img align="right" width="370" height="290" src="https://th.bing.com/th/id/OIP.ihyTpqlzFuz4idN_FLzqhwHaHa?w=186&h=185&c=7&r=0&o=7&cb=12&pid=1.7&rm=3">
-- 🔭 Here's my [portfolio](https://nalinii.web.app/)                            - 💻 🌱I love building responsive web apps using Python, Django, HTML, CSS, and JavaScript.  
+- 🔭 Here's my [portfolio](https://nalinii.web.app/)                            - 💻 🌱I love building responsive web apps using Python, Django, HTML, CSS,Tailwind, JavaScript,React Js.  
 -🚀 Currently exploring Data Structures, Algorithms, and AI/ML to level up my skills.  
 -🔧 I enjoy solving real-world problems and turning ideas into working code.  
 -📚 Always curious, always learning – tech is my playground.  
@@ -22,6 +22,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
